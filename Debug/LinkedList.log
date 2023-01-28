@@ -1,0 +1,31 @@
+﻿  Source.cpp
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(5,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(5,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(5,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(6,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(6,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(6,1): error C2086: 'int Node': redefinition
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(5): message : see declaration of 'Node'
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(6,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(7,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(7,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(7,1): error C2086: 'int Node': redefinition
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(5): message : see declaration of 'Node'
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(7,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(23,15): error C2061: syntax error: identifier 'Node'
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(29,9): error C2065: 'p': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(29,17): error C2061: syntax error: identifier 'Node'
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(30,17): error C2065: 'p': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(31,3): error C2065: 'p': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(32,10): error C2065: 'p': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(33,10): error C2065: 'p': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(37,9): error C2065: 'p': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(37,17): error C2061: syntax error: identifier 'Node'
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(38,9): error C2065: 't': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(39,17): error C2065: 'p': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(40,3): error C2065: 'p': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(41,3): error C2065: 't': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(41,13): error C2065: 'p': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(42,3): error C2065: 'p': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(42,14): error C2065: 't': undeclared identifier
+C:\Users\Amos\Desktop\Programming Stuff\LinkedList\Source.cpp(48,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
